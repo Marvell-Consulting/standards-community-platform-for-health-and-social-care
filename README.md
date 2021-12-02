@@ -1,4 +1,4 @@
-# Health and social care standards community platform
+# Standards community platform for health and social care 
 This platform is open to anyone who uses, develops, commissions, owns or assures standards, services and APIs relating to interoperable technology in health and social care. 
 
 ## How this platform works
