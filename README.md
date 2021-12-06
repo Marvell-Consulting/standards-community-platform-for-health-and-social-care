@@ -23,5 +23,5 @@ You can find more information about how to contribute on the [contribution guida
 
 
 ## Support
-Both the standards community development backlog and the discussions forum are moderated by the standards directory team.
+The standards directory team moderate both the standards community development backlog and the discussions forum.
 - [Email the standards directory team](#)
