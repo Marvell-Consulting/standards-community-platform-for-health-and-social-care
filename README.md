@@ -19,11 +19,11 @@ you can read proposals for new standards, proposals for extensions or changes to
 you can read discussions on local specifications, use cases and standards implementation, post a new discussion and respond to others’ posts
 
 
-Both the standards community development backlog and the discussions forum are moderated by the Standards Directory team. 
+Both the standards community development backlog and the discussions forum are moderated by the standards directory team. 
 
-You can find more information about how to contribute on the [contribution guidance page in the Standards Directory (opens in new window)](https://nhs-standards-registry.herokuapp.com/v5/community-contribution).
+You can find more information about how to contribute on the [contribution guidance page in the standards directory (opens in new window)](https://nhs-standards-registry.herokuapp.com/v5/community-contribution).
 
 
 ## Support
 
-- [Email the Standards Directory team](#)
+- [Email the standards directory team](#)
